@@ -1,0 +1,17 @@
+PESQUISA SOBRE O MERCADO JURÍDICO NA PARAIBA
+
+O MERCADO JURÍDICO ESTÁ SATURADO?
+
+1 - Qual a sua idade?
+2 - Qual o seu sexo?
+3 - Trabalha no interior do estado ou na capital?
+4 - a Quanto tempo exerce a profissão?
+5 - Tem algum tipo de especialização ou pós graduação?
+6 - É empregado ou trabalha por conta própria?
+7 - Qual a renda media mensal?
+8 - Tem surgido muitas oportunidades de trabalho nos últimos anos?
+9 - Existem muitos cursos de direito na Paraíba?
+10 - Ingressam muitos advogados no mercado de trabalho anualmente?
+11 - Esse numero de novos profissionais que entram no mercado tem influenciado positiva ou negativamente nas oportunidades de trabalho?
+
+
